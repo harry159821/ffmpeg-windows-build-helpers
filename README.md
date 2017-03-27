@@ -1,5 +1,6 @@
 ffmpeg-windows-build-helpers
 ============================
+Add CUDA Support Release
 
 This helper script lets you cross compile a windows-based 32 or 64-bit version of ffmpeg/mplayer/mp4box.exe, etc,  including their dependencies and libraries that they use.
 Note that I do offer custom builds, typically $200. Ping me at rogerdpack@gmail.com and I'll do the work for you :) 
